@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Best4Pets</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="pizzas">
+        <item>Для кошек</item>
+        <item>Для собак</item>
+    </string-array>
+    <string name="home_tab">Главная</string>
+    <string name="katalo_tab">Каталог</string>
+    <string name="korzina_tab">Корзина</string>
+    <string name="acc_tab">Профиль</string>
+</resources>

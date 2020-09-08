@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901209211096",
+    "firebase_url": "https://best4pets-2404b.firebaseio.com",
+    "project_id": "best4pets-2404b",
+    "storage_bucket": "best4pets-2404b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901209211096:android:08723253fc0a02577217ad",
+        "android_client_info": {
+          "package_name": "com.hfad.best4pets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901209211096-4risf8h9mpbcmldq0p4psuad1ojpa44f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.best4pets",
+            "certificate_hash": "6ec2acec3e6e44b17e10c11dd8fddaa7c00616d3"
+          }
+        },
+        {
+          "client_id": "901209211096-r6jsu8tsj1v67tshrbvgpujpttcu97cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8gN33vfkDRXiX5RmkGK8FZxTE4ddx6o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901209211096-r6jsu8tsj1v67tshrbvgpujpttcu97cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
